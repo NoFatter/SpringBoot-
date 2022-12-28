@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7fd53b985fa9650",
+        "id": "99b643b4415c95b2",
         "type": "tabs",
         "children": [
           {
-            "id": "ca66a7d773804b7d",
+            "id": "bd5ff197eb63fa04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter1-Spring与Bean.md",
+                "file": "Chapter1-Spring与Bean/Chapter1-Spring与Bean.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter1-Spring与Bean.md",
+                "file": "Chapter1-Spring与Bean/Chapter1-Spring与Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter1-Spring与Bean.md",
+                "file": "Chapter1-Spring与Bean/Chapter1-Spring与Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter1-Spring与Bean.md"
+                "file": "Chapter1-Spring与Bean/Chapter1-Spring与Bean.md"
               }
             }
           }
@@ -146,6 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca66a7d773804b7d",
+  "active": "fd4c5efaf59dd7b5",
   "lastOpenFiles": []
 }
